@@ -1,0 +1,4 @@
+Here is a usefule guide for git subtrees, which generally overcome the limitations of git submodules: http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
+
+In particular, the sections "Adding the sub-project as a remote" and "Contributing back to upstream" are the sections I found most useful.
+
